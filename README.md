@@ -1,6 +1,6 @@
 # DLP Bypass via Unmanaged WiFi Hotspot + AirDroid HTTP Transfer
 
-**Author:** Alvaro BMP | IT Infrastructure Specialist  
+**Author:** Alvaro Martinez | IT Infrastructure Specialist  
 **Certifications:** Google Cybersecurity · Cisco CyberOps  
 **Experience:** ~10 years in IT | 4 years in Infrastructure Administration  
 **GitHub:** [github.com/alvarobmp](https://github.com/alvarobmp) · **LinkedIn:** [linkedin.com/in/alvaromrtnz](https://www.linkedin.com/in/alvaromrtnz/)  
@@ -197,5 +197,5 @@ This writeup was produced for **educational and defensive security purposes only
 
 ---
 
-*Alvaro BMP | IT Infrastructure Specialist | Google Cybersecurity · Cisco CyberOps*  
+*Alvaro Martinez | IT Infrastructure Specialist | Google Cybersecurity · Cisco CyberOps*  
 *[github.com/alvarobmp](https://github.com/alvarobmp) · [linkedin.com/in/alvaromrtnz](https://www.linkedin.com/in/alvaromrtnz/)*
