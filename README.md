@@ -90,7 +90,7 @@ This research was conducted in a **controlled lab environment** for educational 
 ## 👤 Author
 
 **Alvaro Martinez** | IT Infrastructure Specialist  
-Google Cybersecurity · Cisco CyberOps · ~10 years experience  
+Google Cybersecurity · Cisco CyberOps · ~10 years experience IT
 
 [![GitHub](https://img.shields.io/badge/GitHub-alvarobmp-181717?style=flat&logo=github)](https://github.com/alvarobmp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alvaromrtnz-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaromrtnz/)
